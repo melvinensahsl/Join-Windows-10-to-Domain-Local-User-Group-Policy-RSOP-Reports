@@ -345,4 +345,4 @@ Congratulations! We have successfully joined **Desktop2** to the domain as a loc
 
 For administration and troubleshooting, we utilized **Command Line Tools (CMD)** and generated **Resultant Set of Policy (RSOP)** reports to review the implemented policies.
 
- 👉 [Next Lab 6 : Common Active Directory Issues, CMD Commands, PC Offline](https://github.com/Simokid/Common-Active-Directory-Issues-CMD-Commands-PC-Offline)
+ 👉 [Next Lab 6 : Common Active Directory Issues, CMD Commands, PC Offline](https://github.com/melvinensahsl/Common-Active-Directory-Issues-CMD-Commands-PC-Offline)
